@@ -22,7 +22,15 @@ header {
     border: none;
     color: white;
 }
+.custom-header {
+  background-color: firebrick;
+  color: white;
+}
 
+
+.modal-content {
+  border-radius: 10px;
+}
 
 
 
